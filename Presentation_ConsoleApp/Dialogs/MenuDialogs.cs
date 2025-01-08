@@ -7,7 +7,7 @@ public class MenuDialogs(IUserService userService)
 {
     private readonly IUserService _userService = userService;
 
-    public void MAinMenu()
+    public void MainMenu()
     {
         while (true)
         {

@@ -4,7 +4,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Buisness", "Buisness\Buisne
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Presentation_ConsoleApp", "Presentation_ConsoleApp\Presentation_ConsoleApp.csproj", "{C04323AF-80F9-4F20-B624-85AE2BF74B0B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests_", "Tests_\Tests_.csproj", "{E79BAEB3-7C8F-42DB-B0A3-F4D025830C48}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{E79BAEB3-7C8F-42DB-B0A3-F4D025830C48}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

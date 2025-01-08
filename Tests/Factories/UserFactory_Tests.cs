@@ -1,10 +1,11 @@
-using Xunit;
 using Buisness.Dtos;
 using Buisness.Factories;
+using Buisness.Models;
+using Xunit;
 
-namespace Tests.Factories;
+namespace Tests_.Factories;
 
-public class UserFactory_Tests
+public class UserFactoryTests
 {
     [Fact]
     public void Create_ShouldReturnUserRegistrationForm()
