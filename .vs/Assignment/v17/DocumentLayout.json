@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\JetBrains\\Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C04323AF-80F9-4F20-B624-85AE2BF74B0B}|Presentation_ConsoleApp\\Presentation_ConsoleApp.csproj|c:\\projects\\jetbrains\\assignment\\presentation_consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C04323AF-80F9-4F20-B624-85AE2BF74B0B}|Presentation_ConsoleApp\\Presentation_ConsoleApp.csproj|solutionrelative:presentation_consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E79BAEB3-7C8F-42DB-B0A3-F4D025830C48}|Tests_\\Tests_.csproj|c:\\projects\\jetbrains\\assignment\\tests_\\factories\\userfactory_tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E79BAEB3-7C8F-42DB-B0A3-F4D025830C48}|Tests_\\Tests_.csproj|solutionrelative:tests_\\factories\\userfactory_tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserFactory_Tests.cs",
+              "DocumentMoniker": "C:\\Projects\\JetBrains\\Assignment\\Tests_\\Factories\\UserFactory_Tests.cs",
+              "RelativeDocumentMoniker": "Tests_\\Factories\\UserFactory_Tests.cs",
+              "ToolTip": "C:\\Projects\\JetBrains\\Assignment\\Tests_\\Factories\\UserFactory_Tests.cs",
+              "RelativeToolTip": "Tests_\\Factories\\UserFactory_Tests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T10:57:51.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\JetBrains\\Assignment\\Presentation_ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "Presentation_ConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Projects\\JetBrains\\Assignment\\Presentation_ConsoleApp\\Program.cs",
+              "RelativeToolTip": "Presentation_ConsoleApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T03:56:35.99Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
